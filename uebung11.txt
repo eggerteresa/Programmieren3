@@ -1,0 +1,2 @@
+Product{productname='Gouda', price=3.99, productCategory='Kaese'}
+Product{productname='Joghurt', price=1.2, productCategory='Milchprodukte'}
